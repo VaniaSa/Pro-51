@@ -1,0 +1,10 @@
+.main{
+    display: flex;
+    border: solid;
+}
+*{
+    background-color: #acc0ec;
+}
+.Header{
+    padding-left: 500px;
+}
